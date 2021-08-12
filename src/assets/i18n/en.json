@@ -1,0 +1,5 @@
+{
+  "status.processing": "processing",
+  "status.success": "success",
+  "status.error": "error"
+}

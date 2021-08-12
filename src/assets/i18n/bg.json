@@ -1,0 +1,5 @@
+{
+  "status.processing": "в процес на обработка",
+  "status.success": "успешно",
+  "status.error": "грешка"
+}
